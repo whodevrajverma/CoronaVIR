@@ -1,4 +1,4 @@
-# CoronaVIR: A Web-Based Platform for COVID-19 Research
+# CoronaVIR: A Web-Based Platform on Coronavirus Disease-19 to Maintain Predicted Diagnostic, Drug, and Vaccine Candidates
 
 **CoronaVIR** is a comprehensive, multi-modular web resource developed to maintain both predicted and existing scientific information on **SARS-CoV-2**. This platform serves as a holistic toolkit for the scientific community,
 integrating genomic analysis, diagnostic tool development, and the discovery of therapeutic and vaccine candidates to combat the COVID-19 pandemic.
