@@ -13,6 +13,8 @@ Patiyal, S., Kaur, D., Kaur, H., Sharma, N., Dhall, A., Sahai, S., Agrawal, P., 
 **A Web-Based Platform on Coronavirus Disease-19 to Maintain Predicted Diagnostic, Drug, and Vaccine Candidates.** *Monoclonal Antibodies in Immunodiagnosis and Immunotherapy*, 39(5), 154-161.
 https://doi.org/10.1089/mab.2020.0035
 
+This dataset is available on Zenodo at https://doi.org/10.5281/zenodo.20119757
+
 ---
 
 ## About the Platform
